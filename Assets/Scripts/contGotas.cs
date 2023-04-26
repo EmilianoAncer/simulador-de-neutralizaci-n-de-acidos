@@ -29,4 +29,8 @@ public class contGotas : MonoBehaviour
     {
         gota += 1;
     }
+    public void resetGota()
+    {
+        gota = 0;
+    }
 }
