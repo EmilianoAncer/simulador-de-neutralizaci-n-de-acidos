@@ -52,3 +52,11 @@ Update Mode: updateDependencies
 
 The following packages were updated:
   com.unity.timeline from version 1.4.8 to 1.6.4
+
+=== Tue May 16 18:35:19 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 2.0.1 to 2.0.3
