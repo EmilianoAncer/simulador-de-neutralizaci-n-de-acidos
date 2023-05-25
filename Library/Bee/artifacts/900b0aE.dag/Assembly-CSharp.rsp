@@ -334,6 +334,7 @@
 -r:"Library/Bee/artifacts/900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/contGotas.cs"
 "Assets/Scripts/gotoScene.cs"
+"Assets/Scripts/LevelManager.cs"
 "Assets/Scripts/matraz.cs"
 "Assets/Scripts/spawnerScript.cs"
 -langversion:9.0
